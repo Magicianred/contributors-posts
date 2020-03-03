@@ -1,0 +1,353 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Contributors Posts\n"
+"POT-Creation-Date: 2013-05-02 11:47+0200\n"
+"PO-Revision-Date: 2013-05-02 11:50+0200\n"
+"Last-Translator: Simone \"Magicianred\" Paolucci <magicianred@gmail.com>\n"
+"Language-Team: Simone \"Magicianred\" Paolucci <magicianred@gmail.com>\n"
+"Language: Italiano\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../archive-contributorpost.php:29
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Archivi Giornalieri: %s"
+
+#: ../archive-contributorpost.php:31
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Archivi Mensili: %s"
+
+#: ../archive-contributorpost.php:33
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Archivi Annuali: %s"
+
+#: ../archive-contributorpost.php:35
+msgid "Blog Archives"
+msgstr "Archivi del Blog"
+
+#: ../archive-contributorpost.php:69
+msgid "Nothing Found"
+msgstr "Non è stato trovato niente"
+
+#: ../archive-contributorpost.php:73
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+"Ci scusiamo, ma nessun risultato è stato trovato per l'archivio richiesto. "
+"Forse ricercando potrà aiutare a trovare post relativi."
+
+#: ../mgr_cp_contributorsposts.php:33
+msgid "Add New Contributor Post"
+msgstr "Aggiungi nuovo Contributor Post"
+
+#: ../mgr_cp_contributorsposts.php:34
+msgid "Edit Contributor Post"
+msgstr "Modifica Contributor Post"
+
+#: ../mgr_cp_contributorsposts.php:35
+msgid "New Contributor Post"
+msgstr "Nuovo Contributor Post"
+
+#: ../mgr_cp_contributorsposts.php:36
+msgid "All Contributors Posts"
+msgstr "Tutti i Contributor Post"
+
+#: ../mgr_cp_contributorsposts.php:37
+msgid "View Contributor Post"
+msgstr "Vedi il Contributor Post"
+
+#: ../mgr_cp_contributorsposts.php:38
+msgid "Search Contributors Posts"
+msgstr "Ricerca i Contributor Post"
+
+#: ../mgr_cp_contributorsposts.php:39
+msgid "No contributors posts found"
+msgstr "Nessun Contributor Post trovato"
+
+#: ../mgr_cp_contributorsposts.php:40
+msgid "No contributors posts found in the Trash"
+msgstr "Nessun contributor post è stato trovato nel Cestino"
+
+#: ../mgr_cp_contributorsposts.php:62
+#, php-format
+msgid "Contributor Post updated. <a href=\"%s\">View Contributor Post</a>"
+msgstr ""
+"Aggiornato il Contributor Post. <a href=\"%s\">Vedi Contributor Post</a>"
+
+#: ../mgr_cp_contributorsposts.php:63
+msgid "Custom field updated."
+msgstr "Custom field aggiornato."
+
+#: ../mgr_cp_contributorsposts.php:64
+msgid "Custom field deleted."
+msgstr "Custom field cancellato."
+
+#: ../mgr_cp_contributorsposts.php:65
+msgid "Contributor Post updated."
+msgstr "Contributor Post aggiornato."
+
+#: ../mgr_cp_contributorsposts.php:66
+#, php-format
+msgid "Contributor Post restored to revision from %s"
+msgstr "Contributor Post recuperato dalla revisione del %s"
+
+#: ../mgr_cp_contributorsposts.php:67
+#, php-format
+msgid "Contributor Post published. <a href=\"%s\">View Contributor Post</a>"
+msgstr "Contributor Post pubblicato. <a href=\"%s\">Vedi Contributor Post</a>"
+
+#: ../mgr_cp_contributorsposts.php:68
+msgid "Contributor Post saved."
+msgstr "Contributor Post salvato."
+
+#: ../mgr_cp_contributorsposts.php:69
+#, php-format
+msgid ""
+"Contributor Post submitted. <a target=\"_blank\" href=\"%s\">Preview "
+"Contributor Post</a>"
+msgstr ""
+"Contributor Post inviato. <a target=\"_blank\" href=\"%s\">Anteprima "
+"Contributor Post</a>"
+
+#: ../mgr_cp_contributorsposts.php:70
+#, php-format
+msgid ""
+"Contributor Post scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" "
+"href=\"%2$s\">Preview Contributor Post</a>"
+msgstr ""
+"Contributor Post programmato per: <strong>%1$s</strong>. <a target=\"_blank"
+"\" href=\"%2$s\">Anteprima Contributor Post</a>"
+
+#: ../mgr_cp_contributorsposts.php:70
+msgid "M j, Y @ G:i"
+msgstr "j M, Y @ G:i"
+
+#: ../mgr_cp_contributorsposts.php:71
+#, php-format
+msgid ""
+"Contributor Post draft updated. <a target=\"_blank\" href=\"%s\">Preview "
+"Contributor Post</a>"
+msgstr ""
+"Bozza Contributor Post aggiornata. <a target=\"_blank\" href=\"%s"
+"\">Anteprima Contributor Post</a>"
+
+#: ../mgr_cp_contributorsposts.php:101
+msgid "Search Contributor"
+msgstr "Cerca Contributor"
+
+#: ../mgr_cp_contributorsposts.php:102
+msgid "All Contributors"
+msgstr "Tutti i Contributor"
+
+#: ../mgr_cp_contributorsposts.php:103
+msgid "Parent Contributor"
+msgstr "Parent Contributor"
+
+#: ../mgr_cp_contributorsposts.php:104
+msgid "Parent Contributor:"
+msgstr "Parent Contributor:"
+
+#: ../mgr_cp_contributorsposts.php:105
+msgid "Edit Contributor"
+msgstr "Modifica Contributor"
+
+#: ../mgr_cp_contributorsposts.php:106
+msgid "Update Contributor"
+msgstr "Aggiorna Contributor"
+
+#: ../mgr_cp_contributorsposts.php:107
+msgid "Add New Contributor"
+msgstr "Aggiungi Nuovo Contributor"
+
+#: ../mgr_cp_contributorsposts.php:108
+msgid "New Contributor"
+msgstr "Nuovo Contributor"
+
+#: ../mgr_cp_contributorsposts.php:109
+msgid "Contributors"
+msgstr "Contributor"
+
+#: ../mgr_cp_contributorsposts.php:585 ../mgr_cp_contributorsposts.php:679
+#: ../mgr_cp_contributorsposts.php:767
+msgid "Title"
+msgstr "Titolo"
+
+#: ../mgr_cp_contributorsposts.php:589
+msgid "Maximum Contributors to show"
+msgstr "Massimo numero di Contributor da mostrare"
+
+#: ../mgr_cp_contributorsposts.php:593 ../mgr_cp_contributorsposts.php:690
+#: ../mgr_cp_contributorsposts.php:775
+msgid "Show posts count"
+msgstr "Mostra numero dei post"
+
+#: ../mgr_cp_contributorsposts.php:597 ../mgr_cp_contributorsposts.php:686
+#: ../mgr_cp_contributorsposts.php:771
+msgid "Add description of contributor"
+msgstr "Aggiungi Descrizione del Contributor"
+
+#: ../mgr_cp_contributorsposts.php:601 ../mgr_cp_contributorsposts.php:694
+#: ../mgr_cp_contributorsposts.php:779
+msgid "Max number of post for each contributor (can be 0)"
+msgstr "Massimo numero di post per ciascun contributor (può essere 0)"
+
+#: ../mgr_cp_contributorsposts.php:604 ../mgr_cp_contributorsposts.php:697
+#: ../mgr_cp_contributorsposts.php:782
+msgid "Choose how to show post description"
+msgstr "Scegliere come mostrare la descrizione del post"
+
+#: ../mgr_cp_contributorsposts.php:606 ../mgr_cp_contributorsposts.php:699
+#: ../mgr_cp_contributorsposts.php:784
+msgid "No description"
+msgstr "Nessuna descrizione"
+
+#: ../mgr_cp_contributorsposts.php:607 ../mgr_cp_contributorsposts.php:700
+#: ../mgr_cp_contributorsposts.php:785
+msgid "Short description"
+msgstr "Descrizione breve"
+
+#: ../mgr_cp_contributorsposts.php:608 ../mgr_cp_contributorsposts.php:701
+#: ../mgr_cp_contributorsposts.php:786
+msgid "Long description"
+msgstr "Descrizione lunga"
+
+#: ../mgr_cp_contributorsposts.php:612 ../mgr_cp_contributorsposts.php:790
+msgid ""
+"<strong>Except these</strong> Contributor(s) Id or Slug (divide by comma)"
+msgstr ""
+"<strong>Eccetto questo/i</strong> Contributor Id o Slug (separati da virgola)"
+
+#: ../mgr_cp_contributorsposts.php:682
+msgid "Contributor(s) Id or Slug (divide by comma)"
+msgstr "Contributor (1 o più) Id o Slug (separati da virgola)"
+
+#: ../mgr_cp_contributorsposts.php:888
+msgid "Contributors Posts Configuration"
+msgstr "Configurazione dei Contributor Post"
+
+#: ../mgr_cp_contributorsposts.php:895
+msgid "General Settings"
+msgstr "Impostazioni Generali"
+
+#: ../mgr_cp_contributorsposts.php:895
+msgid "Support and Donate"
+msgstr "Supporta e Dona"
+
+#: ../mgr_cp_contributorsposts.php:914
+msgid "General Settings for Contributors' Posts"
+msgstr "Impostazioni Generali per Contributors' Posts"
+
+#: ../mgr_cp_contributorsposts.php:927
+msgid "Customize HTML tags of the Contributor Box"
+msgstr "Personalizza Tag HTML del Contributor Box"
+
+#: ../mgr_cp_contributorsposts.php:929
+msgid "HTML Start Separator"
+msgstr "HTML Separatore di Inizio"
+
+#: ../mgr_cp_contributorsposts.php:933
+msgid "HTML Contributor Description Separator (before)"
+msgstr "HTML Separatore Descrizione Contributor (prima)"
+
+#: ../mgr_cp_contributorsposts.php:938
+msgid "HTML Contributor Box (Opening)"
+msgstr "HTML Contributor Box (Apertura)"
+
+#: ../mgr_cp_contributorsposts.php:942
+msgid "HTML Contributor Box (closing)"
+msgstr "HTML Contributor Box (chiusura)"
+
+#: ../mgr_cp_contributorsposts.php:946
+msgid "HTML Contributor Box Image (opening)"
+msgstr "HTML Immagine del Contributor Box (apertura)"
+
+#: ../mgr_cp_contributorsposts.php:950
+msgid "HTML Contributor Box Image (closing)"
+msgstr "HTML Immagine del Contributor Box (chiusura)"
+
+#: ../mgr_cp_contributorsposts.php:954
+msgid "HTML Contributor Box Title (opening)"
+msgstr "HTML Titolo del Contributor Box (apertura)"
+
+#: ../mgr_cp_contributorsposts.php:958
+msgid "HTML Contributor Box Title (closing)"
+msgstr "HTML Titolo del Contributor Box (chiusura)"
+
+#: ../mgr_cp_contributorsposts.php:962
+msgid "HTML Contributor Box Post Count (opening)"
+msgstr "HTML Numero Post del Contributor Box (apertura)"
+
+#: ../mgr_cp_contributorsposts.php:966
+msgid "HTML Contributor Box Post Count (closing)"
+msgstr "HTML Numero Post del Contributor Box (chiusura)"
+
+#: ../mgr_cp_contributorsposts.php:971
+msgid "Submit"
+msgstr "Invia"
+
+#: ../mgr_cp_contributorsposts.php:982
+msgid ""
+"<strong>Contributors' Posts</strong> is a plugin developed by Simone "
+"\"Magicianred\" Paolucci."
+msgstr ""
+"<strong>Contributors' Posts</strong> è un plugin sviluppato da Simone "
+"\"Magicianred\" Paolucci"
+
+#: ../mgr_cp_contributorsposts.php:983
+msgid "Visit his website to learn about other projects he have realized."
+msgstr ""
+"Visita il suo sito web per saperne di più sugli altri progetti che ha "
+"realizzato."
+
+#: ../mgr_cp_contributorsposts.php:985
+msgid ""
+"You can know more about this plugin, to send suggestions and to give your "
+"vote through the website Wordpress.org, where the plugin is distributed."
+msgstr ""
+"Per saperne di più su questo plugin, per spedire suggerimenti e dare il tuo "
+"voto attraverso il sito Wordpress.org, dove il plugin è distribuito."
+
+#: ../mgr_cp_contributorsposts.php:991
+msgid ""
+"You can also contribute to the development of the project by making a "
+"donation to the developer."
+msgstr ""
+"Tu puoi anche contribuire allo sviluppo del progetto facendo una donazione "
+"allo sviluppatore."
+
+#: ../mgr_cp_contributorsposts.php:1005
+msgid "Donation"
+msgstr "Donazione"
+
+#: ../mgr_cp_contributorsposts.php:1006 ../mgr_cp_contributorsposts.php:1020
+msgid "Donation to the development of Wordpress plugins Contributors Posts"
+msgstr "Donazione allo sviluppo del plugin di Wordpress Contributors Posts"
+
+#: ../mgr_cp_contributorsposts.php:1055
+msgid "Not allowed"
+msgstr "Non permesso"
+
+#: ../single-contributorpost.php:22
+msgid "Post navigation"
+msgstr "Naviga fra i Post"
+
+#: ../single-contributorpost.php:23
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Precedente"
+
+#: ../single-contributorpost.php:24
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Prossimo <span class=\"meta-nav\">&rarr;</span>"
+
+#~ msgid "Contributors' Posts Manager"
+#~ msgstr "Gestione dei Contributor Post"

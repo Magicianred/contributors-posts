@@ -1,0 +1,568 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Contributors Posts\n"
+"POT-Creation-Date: 2014-05-01 11:52+0100\n"
+"PO-Revision-Date: 2014-05-01 11:56+0100\n"
+"Last-Translator: Simone \"Magicianred\" Paolucci <magicianred@gmail.com>\n"
+"Language-Team: Simone \"Magicianred\" Paolucci <magicianred@gmail.com>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../archive-contributorpost.php:29
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Archivi Giornalieri: %s"
+
+#: ../archive-contributorpost.php:31
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Archivi Mensili: %s"
+
+#: ../archive-contributorpost.php:31
+msgid "F Y"
+msgstr "F Y"
+
+#: ../archive-contributorpost.php:33
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Archivi Annuali: %s"
+
+#: ../archive-contributorpost.php:33
+msgid "Y"
+msgstr "Y"
+
+#: ../archive-contributorpost.php:35
+msgid "Blog Archives"
+msgstr "Archivi del Blog"
+
+#: ../archive-contributorpost.php:69
+msgid "Nothing Found"
+msgstr "Non è stato trovato niente"
+
+#: ../archive-contributorpost.php:73
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+"Ci scusiamo, ma nessun risultato è stato trovato per l'archivio richiesto. "
+"Forse ricercando potrà aiutare a trovare post relativi."
+
+#: ../includes/admin_include.php:11
+#, php-format
+msgid "Contributor Post updated. <a href=\"%s\">View Contributor Post</a>"
+msgstr ""
+"Aggiornato il Contributor Post. <a href=\"%s\">Vedi Contributor Post</a>"
+
+#: ../includes/admin_include.php:12
+msgid "Custom field updated."
+msgstr "Custom field aggiornato."
+
+#: ../includes/admin_include.php:13
+msgid "Custom field deleted."
+msgstr "Custom field cancellato."
+
+#: ../includes/admin_include.php:14
+msgid "Contributor Post updated."
+msgstr "Contributor Post aggiornato."
+
+#: ../includes/admin_include.php:15
+#, php-format
+msgid "Contributor Post restored to revision from %s"
+msgstr "Contributor Post recuperato dalla revisione del %s"
+
+#: ../includes/admin_include.php:16
+#, php-format
+msgid "Contributor Post published. <a href=\"%s\">View Contributor Post</a>"
+msgstr "Contributor Post pubblicato. <a href=\"%s\">Vedi Contributor Post</a>"
+
+#: ../includes/admin_include.php:17
+msgid "Contributor Post saved."
+msgstr "Contributor Post salvato."
+
+#: ../includes/admin_include.php:18
+#, php-format
+msgid ""
+"Contributor Post submitted. <a target=\"_blank\" href=\"%s\">Preview "
+"Contributor Post</a>"
+msgstr ""
+"Contributor Post inviato. <a target=\"_blank\" href=\"%s\">Anteprima "
+"Contributor Post</a>"
+
+#: ../includes/admin_include.php:19
+#, php-format
+msgid ""
+"Contributor Post scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" "
+"href=\"%2$s\">Preview Contributor Post</a>"
+msgstr ""
+"Contributor Post programmato per: <strong>%1$s</strong>. <a target=\"_blank"
+"\" href=\"%2$s\">Anteprima Contributor Post</a>"
+
+#: ../includes/admin_include.php:19
+msgid "M j, Y @ G:i"
+msgstr "j M, Y @ G:i"
+
+#: ../includes/admin_include.php:20
+#, php-format
+msgid ""
+"Contributor Post draft updated. <a target=\"_blank\" href=\"%s\">Preview "
+"Contributor Post</a>"
+msgstr ""
+"Bozza Contributor Post aggiornata. <a target=\"_blank\" href=\"%s"
+"\">Anteprima Contributor Post</a>"
+
+#: ../includes/admin_include.php:31 ../includes/setup_include.php:6
+msgid "Contributors Posts"
+msgstr "Tutti i Contributor Post"
+
+#: ../includes/admin_include.php:32
+msgid ""
+"Contributors Posts show the details of the posts of the contributors that we "
+"show on the blog. You can see a list of them on this page in reverse "
+"chronological order - the latest one we added is first. "
+msgstr ""
+"Contributor Post mostra i dettagli dei post dei contributor che noi "
+"mostriamo nel blog. Puoi vederne una lista sulla pagina in ordine "
+"cronologico inverso - il più nuovo che aggiungiamo è al primo posto"
+
+#: ../includes/admin_include.php:33
+msgid ""
+"You can view/edit the details of each Contributor Post by clicking on its "
+"name, or you can perform bulk actions using the dropdown menu and selecting "
+"multiple items. "
+msgstr ""
+"Puoi vedere/modificare i dettagli di ciascun Contributor Post cliccando sul "
+"suo nome, o puoi effettuare azioni seriali usando il menù a tendina e "
+"selezionando elementi multipli"
+
+#: ../includes/admin_include.php:37
+msgid "Editing Contributors Posts"
+msgstr "Modifica Contributor Post"
+
+#: ../includes/admin_include.php:38
+msgid ""
+"This page allows you to view/modify Contributor Post details. Please make "
+"sure to fill out the available boxes with the appropriate details "
+"(contributor by, etc) and <strong>not</strong> add these details to the "
+"Contributor Post description."
+msgstr ""
+"Questa pagina ti permette di vedere/modificare i dettagli del Contributor "
+"Post. Per favore assicurati di riempire i campi disponibili con i dettagli "
+"appropriati (contributor, ecc) e <strong>non</strong> aggiungere questi "
+"dettagli nella descrizione del Contributor Post"
+
+#: ../includes/admin_include.php:86
+msgid "Contributors Posts Configuration"
+msgstr "Configurazione dei Contributor Post"
+
+#: ../includes/admin_include.php:87
+msgid "Contributors Posts Settings"
+msgstr "Impostazioni dei Contributor Post"
+
+#: ../includes/admin_include.php:93
+msgid "General Settings"
+msgstr "Impostazioni Generali"
+
+#: ../includes/admin_include.php:94
+#, fuzzy
+msgid "Contributor, Category & Tag Settings"
+msgstr "Impostazioni dei Contributor Post"
+
+#: ../includes/admin_include.php:95 ../includes/admin_include.php:330
+msgid "Support and Donate"
+msgstr "Supporta e Dona"
+
+#: ../includes/admin_include.php:99
+msgid "Wiball on keybord (C) Elisa Ragni 2010 by-nc-nd-3.0"
+msgstr "Wiball on keyboard (C) Elisa Ragni 2010 by-nc-nd-3.0"
+
+#: ../includes/admin_include.php:100
+#, fuzzy
+msgid "Settings for Contributors' Posts"
+msgstr "Impostazioni Generali per Contributors' Posts"
+
+#: ../includes/admin_include.php:138
+msgid "Customize HTML tags of the Contributor Box"
+msgstr "Personalizza Tag HTML del Contributor Box"
+
+#: ../includes/admin_include.php:144
+msgid "HTML Start Separator"
+msgstr "HTML Separatore di Inizio"
+
+#: ../includes/admin_include.php:148
+msgid "HTML Contributor Description Separator (before)"
+msgstr "HTML Separatore Descrizione Contributor (prima)"
+
+#: ../includes/admin_include.php:153
+msgid "HTML Contributor Box (Opening)"
+msgstr "HTML Contributor Box (Apertura)"
+
+#: ../includes/admin_include.php:157
+msgid "HTML Contributor Box (closing)"
+msgstr "HTML Contributor Box (chiusura)"
+
+#: ../includes/admin_include.php:161
+msgid "HTML Contributor Box Image (opening)"
+msgstr "HTML Immagine del Contributor Box (apertura)"
+
+#: ../includes/admin_include.php:165
+msgid "HTML Contributor Box Image (closing)"
+msgstr "HTML Immagine del Contributor Box (chiusura)"
+
+#: ../includes/admin_include.php:169
+msgid "HTML Contributor Box Title (opening)"
+msgstr "HTML Titolo del Contributor Box (apertura)"
+
+#: ../includes/admin_include.php:173
+msgid "HTML Contributor Box Title (closing)"
+msgstr "HTML Titolo del Contributor Box (chiusura)"
+
+#: ../includes/admin_include.php:177
+msgid "HTML Contributor Box Post Count (opening)"
+msgstr "HTML Numero Post del Contributor Box (apertura)"
+
+#: ../includes/admin_include.php:181
+msgid "HTML Contributor Box Post Count (closing)"
+msgstr "HTML Numero Post del Contributor Box (chiusura)"
+
+#: ../includes/admin_include.php:185
+#, fuzzy
+msgid "HTML Contributor Box Description (opening)"
+msgstr "HTML Titolo del Contributor Box (apertura)"
+
+#: ../includes/admin_include.php:189
+#, fuzzy
+msgid "HTML Contributor Box Description (closing)"
+msgstr "HTML Titolo del Contributor Box (chiusura)"
+
+#: ../includes/admin_include.php:193
+#, fuzzy
+msgid "HTML Contributor Box Description Empty (opening)"
+msgstr "HTML Numero Post del Contributor Box (apertura)"
+
+#: ../includes/admin_include.php:197
+#, fuzzy
+msgid "HTML Contributor Box Description Empty (closing)"
+msgstr "HTML Numero Post del Contributor Box (chiusura)"
+
+#: ../includes/admin_include.php:202
+#, fuzzy
+msgid "HTML Contributor Box Posts Box (opening)"
+msgstr "HTML Numero Post del Contributor Box (apertura)"
+
+#: ../includes/admin_include.php:206
+#, fuzzy
+msgid "HTML Contributor Box Posts Box (closing)"
+msgstr "HTML Numero Post del Contributor Box (chiusura)"
+
+#: ../includes/admin_include.php:210
+#, fuzzy
+msgid "HTML Contributor Box Post Content (opening)"
+msgstr "HTML Numero Post del Contributor Box (apertura)"
+
+#: ../includes/admin_include.php:214
+#, fuzzy
+msgid "HTML Contributor Box Post Content (closing)"
+msgstr "HTML Numero Post del Contributor Box (chiusura)"
+
+#: ../includes/admin_include.php:218
+#, fuzzy
+msgid "HTML Contributor Box Post Title (opening)"
+msgstr "HTML Titolo del Contributor Box (apertura)"
+
+#: ../includes/admin_include.php:222
+#, fuzzy
+msgid "HTML Contributor Box Post Title (closing)"
+msgstr "HTML Titolo del Contributor Box (chiusura)"
+
+#: ../includes/admin_include.php:226
+#, fuzzy
+msgid "HTML Contributor Box Post Description (opening)"
+msgstr "HTML Numero Post del Contributor Box (apertura)"
+
+#: ../includes/admin_include.php:230
+#, fuzzy
+msgid "HTML Contributor Box Post Description (closing)"
+msgstr "HTML Numero Post del Contributor Box (chiusura)"
+
+#: ../includes/admin_include.php:234
+#, fuzzy
+msgid "HTML Contributor Box Post Description Empty (opening)"
+msgstr "HTML Numero Post del Contributor Box (apertura)"
+
+#: ../includes/admin_include.php:238
+#, fuzzy
+msgid "HTML Contributor Box Post Description Empty (closing)"
+msgstr "HTML Numero Post del Contributor Box (chiusura)"
+
+#: ../includes/admin_include.php:243 ../includes/admin_include.php:319
+msgid "Submit"
+msgstr "Invia"
+
+#: ../includes/admin_include.php:258
+msgid "Customize Contributor taxonomy, Category and Tag Options"
+msgstr ""
+"Personalizza le Opzioni del Contributor (taxonomy), della Categoria e dei Tag"
+
+#: ../includes/admin_include.php:264
+msgid "Select Post types to associate a Contributor taxonomy"
+msgstr "Seleziona i Post Types da associare alla taxonomia Contributor"
+
+#: ../includes/admin_include.php:282
+msgid "Select Taxonomy types where you want Contributors' Posts to be showed"
+msgstr ""
+"Seleziona i tipi di Taxonomy dove vuoi siano mostrati i Contributors' Posts"
+
+#: ../includes/admin_include.php:300
+msgid ""
+"Select the option below to attive the plugin specific page showing a type"
+msgstr ""
+"Seleziona le opzioni sotto per attivare le pagine specifiche per mostrare un "
+"tipo"
+
+#: ../includes/admin_include.php:333
+msgid ""
+"<strong>Contributors' Posts</strong> is a plugin developed by Simone "
+"\"Magicianred\" Paolucci."
+msgstr ""
+"<strong>Contributors' Posts</strong> è un plugin sviluppato da Simone "
+"\"Magicianred\" Paolucci."
+
+#: ../includes/admin_include.php:334
+msgid "Visit his website to learn about other projects he have realized."
+msgstr ""
+"Visita il suo sito web per saperne di più sugli altri progetti che ha "
+"realizzato."
+
+#: ../includes/admin_include.php:336
+msgid ""
+"You can know more about this plugin, to send suggestions and to give your "
+"vote through the website Wordpress.org, where the plugin is distributed."
+msgstr ""
+"Per saperne di più su questo plugin, per spedire suggerimenti e dare il tuo "
+"voto attraverso il sito Wordpress.org, dove il plugin è distribuito."
+
+#: ../includes/admin_include.php:342
+msgid ""
+"You can also contribute to the development of the project by making a "
+"donation to the developer."
+msgstr ""
+"Tu puoi anche contribuire allo sviluppo del progetto facendo una donazione "
+"allo sviluppatore."
+
+#: ../includes/admin_include.php:357
+msgid "Donation"
+msgstr "Donazione"
+
+#: ../includes/admin_include.php:358 ../includes/admin_include.php:372
+msgid "Donation to the development of Wordpress plugins Contributors Posts"
+msgstr "Donazione allo sviluppo del plugin di Wordpress Contributors Posts"
+
+#: ../includes/admin_include.php:399
+msgid "Last News about Plugin"
+msgstr "Ultime Notizie sul Plugin"
+
+#: ../includes/admin_include.php:407
+msgid "Credits and Attributions"
+msgstr "Ringraziamenti ed Attribuzioni"
+
+#: ../includes/admin_include.php:411
+msgid "by"
+msgstr "di"
+
+#: ../includes/admin_include.php:413
+msgid "is licensed under a"
+msgstr "è rilasciato sotto la licenza"
+
+#: ../includes/admin_include.php:414
+msgid ""
+"Creative Commons Attribution - Non Commercial - Share Alike 3.0 Unported "
+"License"
+msgstr ""
+"Creative Commons Attribuzione - Non Commerciale - Condividi allo stesso modo "
+"3.0 Unported License"
+
+#: ../includes/admin_include.php:415
+msgid "Permissions beyond the scope of this license may be available at"
+msgstr ""
+"Permessi che superino l'ambito della presente licenza possono essere "
+"richiesti a"
+
+#: ../includes/admin_include.php:417
+msgid "Facebook Page"
+msgstr "Pagina Facebook"
+
+#: ../includes/admin_include.php:432
+msgid "Not allowed"
+msgstr "Non permesso"
+
+#: ../includes/setup_include.php:7
+msgid "Contributor Post"
+msgstr "Nuovo Contributor Post"
+
+#: ../includes/setup_include.php:8
+msgid "Add New"
+msgstr "Aggiungi nuovo"
+
+#: ../includes/setup_include.php:9
+msgid "Add New Contributor Post"
+msgstr "Aggiungi nuovo Contributor Post"
+
+#: ../includes/setup_include.php:10
+msgid "Edit Contributor Post"
+msgstr "Modifica Contributor Post"
+
+#: ../includes/setup_include.php:11
+msgid "New Contributor Post"
+msgstr "Nuovo Contributor Post"
+
+#: ../includes/setup_include.php:12
+msgid "All Contributors Posts"
+msgstr "Tutti i Contributor Post"
+
+#: ../includes/setup_include.php:13
+msgid "View Contributor Post"
+msgstr "Vedi il Contributor Post"
+
+#: ../includes/setup_include.php:14
+msgid "Search Contributors Posts"
+msgstr "Ricerca i Contributor Post"
+
+#: ../includes/setup_include.php:15
+msgid "No contributors posts found"
+msgstr "Nessun Contributor Post trovato"
+
+#: ../includes/setup_include.php:16
+msgid "No contributors posts found in the Trash"
+msgstr "Nessun contributor post è stato trovato nel Cestino"
+
+#: ../includes/setup_include.php:22
+msgid "Holds our contributors and contributors posts specific data"
+msgstr "Mantiene i nostri contributor e i contributor post per specifica data"
+
+#: ../includes/setup_include.php:37 ../includes/setup_include.php:47
+msgid "Contributors"
+msgstr "Contributor"
+
+#: ../includes/setup_include.php:38
+msgid "Contributor"
+msgstr "Contributor"
+
+#: ../includes/setup_include.php:39
+msgid "Search Contributor"
+msgstr "Cerca Contributor"
+
+#: ../includes/setup_include.php:40
+msgid "All Contributors"
+msgstr "Tutti i Contributor"
+
+#: ../includes/setup_include.php:41
+msgid "Parent Contributor"
+msgstr "Parent Contributor"
+
+#: ../includes/setup_include.php:42
+msgid "Parent Contributor:"
+msgstr "Parent Contributor:"
+
+#: ../includes/setup_include.php:43
+msgid "Edit Contributor"
+msgstr "Modifica Contributor"
+
+#: ../includes/setup_include.php:44
+msgid "Update Contributor"
+msgstr "Aggiorna Contributor"
+
+#: ../includes/setup_include.php:45
+msgid "Add New Contributor"
+msgstr "Aggiungi Nuovo Contributor"
+
+#: ../includes/setup_include.php:46
+msgid "New Contributor"
+msgstr "Nuovo Contributor"
+
+#: ../includes/widget_include.php:66 ../includes/widget_include.php:174
+#: ../includes/widget_include.php:276
+msgid "Title"
+msgstr "Titolo"
+
+#: ../includes/widget_include.php:70
+msgid "Maximum Contributors to show"
+msgstr "Massimo numero di Contributor da mostrare"
+
+#: ../includes/widget_include.php:74 ../includes/widget_include.php:185
+#: ../includes/widget_include.php:284
+msgid "Show posts count"
+msgstr "Mostra numero dei post"
+
+#: ../includes/widget_include.php:78 ../includes/widget_include.php:189
+#: ../includes/widget_include.php:288
+#, fuzzy
+msgid "Show Contributor Image"
+msgstr "Nuovo Contributor"
+
+#: ../includes/widget_include.php:82 ../includes/widget_include.php:181
+#: ../includes/widget_include.php:280
+msgid "Add description of contributor"
+msgstr "Aggiungi Descrizione del Contributor"
+
+#: ../includes/widget_include.php:86 ../includes/widget_include.php:193
+#: ../includes/widget_include.php:292
+msgid "Max number of post for each contributor (can be 0)"
+msgstr "Massimo numero di post per ciascun contributor (può essere 0)"
+
+#: ../includes/widget_include.php:89 ../includes/widget_include.php:196
+#: ../includes/widget_include.php:295
+msgid "Choose how to show post description"
+msgstr "Scegliere come mostrare la descrizione del post"
+
+#: ../includes/widget_include.php:91 ../includes/widget_include.php:198
+#: ../includes/widget_include.php:297
+msgid "No description"
+msgstr "Nessuna descrizione"
+
+#: ../includes/widget_include.php:92 ../includes/widget_include.php:199
+#: ../includes/widget_include.php:298
+msgid "Short description"
+msgstr "Descrizione breve"
+
+#: ../includes/widget_include.php:93 ../includes/widget_include.php:200
+#: ../includes/widget_include.php:299
+msgid "Long description"
+msgstr "Descrizione lunga"
+
+#: ../includes/widget_include.php:97 ../includes/widget_include.php:303
+msgid ""
+"<strong>Except these</strong> Contributor(s) Id or Slug (divide by comma)"
+msgstr ""
+"<strong>Eccetto questo/i</strong> Contributor Id o Slug (separati da virgola)"
+
+#: ../includes/widget_include.php:100 ../includes/widget_include.php:204
+#: ../includes/widget_include.php:306
+msgid ""
+"Set Querystring at Contributor Link (without question mark [?]. e.g.: "
+"<em>onlybio=true&short=false</em>)"
+msgstr ""
+"Imposta la Querystring al collegamento del Contributor (senza il punto "
+"interrogativo [?]. es:. <em>onlybio=true&short=false</em>"
+
+#: ../includes/widget_include.php:177
+msgid "Contributor(s) Id or Slug (divide by comma)"
+msgstr "Contributor (1 o più) Id o Slug (separati da virgola)"
+
+#: ../single-contributorpost.php:22
+msgid "Post navigation"
+msgstr "Naviga fra i Post"
+
+#: ../single-contributorpost.php:23
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Precedente"
+
+#: ../single-contributorpost.php:24
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Prossimo <span class=\"meta-nav\">&rarr;</span>"

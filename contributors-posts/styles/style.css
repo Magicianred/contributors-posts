@@ -1,0 +1,54 @@
+.ContributorsListWidget {
+
+}
+.ContributorsListTitle {
+
+}
+.ContributorInfo {
+	display:block;
+	border-bottom: dotted thin black;
+}
+.contributor_box {
+	display: block;
+	clear: both;
+	padding-top: 5px;
+	padding-bottom: 55px;
+	border-top: dotted thin black;
+}
+.contributor_box_title {
+	font-size: 16px;
+}
+.contributor_box_desc {
+	display:box;
+	font-size: 13px;
+}
+.contributor_box_desc_void {
+	display:none;
+}
+.contributor_box_image {
+	display:block;
+	float:right;
+	width: 45px;
+	height: 45px;
+	padding: 10px 1px;
+}
+.contributor_box_postcount {
+	font-size:smaller;
+	vertical-align: super;
+}
+.contributor_post_content {
+}
+.contributor_posts {
+	display: block;
+	padding-top: 5px;
+}
+.contributor_post_title {
+	font-size: 14px;
+	font-weight: bold;
+	font-style: italic;
+}
+.contributor_post_text {
+}
+.contributor_post_void {
+	display: none;
+}

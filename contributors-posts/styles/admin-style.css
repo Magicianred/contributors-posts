@@ -1,0 +1,17 @@
+.post-type-selection-box {
+	float:none;
+	clear:both;
+	display:block;
+	width:80%;
+}
+.post-type-select-box {
+	display:block;
+	padding: 10px;
+	float:left;
+}
+
+.donation_methods {
+	display: table;
+	border-collapse:separate;
+	border-spacing: 6px;
+}
